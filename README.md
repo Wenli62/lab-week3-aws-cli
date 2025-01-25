@@ -13,3 +13,4 @@
 - **launch ec2:** `https://docs.aws.amazon.com/cli/latest/userguide/cli-services-ec2-instances.html`
 - **run instance:** `https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/run-instances.html`
 - **associate-address:** `https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/associate-address.html`
+- **change permission and change ownership from root to current user before ssh** 
